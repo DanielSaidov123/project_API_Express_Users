@@ -6,7 +6,6 @@ export async function readFromFile(fileName) {
   try {
     const data = await fs.readFile(fileName, "utf8");
     const arr = JSON.parse(data);
-    console.log(arr)
     return arr
   } catch (err) {
     console.error("Error reading from file:", err);

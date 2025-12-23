@@ -1,15 +1,9 @@
 [
   {
     "id": 2,
-    "name": "ddddddddddd",
+    "name": "dssssssssssssssssssssssssssssssssssssssss",
     "age": "4321",
     "city": "Jerusalem"
-  },
-  {
-    "id": 3,
-    "name": "Michael",
-    "age": 28,
-    "city": "Haifa"
   },
   {
     "id": 4,
@@ -31,6 +25,12 @@
   },
   {
     "id": 7,
+    "name": "",
+    "age": 25,
+    "city": ""
+  },
+  {
+    "id": 8,
     "name": "",
     "age": 25,
     "city": ""
